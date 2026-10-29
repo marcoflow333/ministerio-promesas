@@ -9,3 +9,4 @@ secretos/
 
 # Configuraciones locales
 .env
+discurso.tmp
